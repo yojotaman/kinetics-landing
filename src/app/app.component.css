@@ -1,0 +1,40 @@
+
+/* .bg-primary {
+    background-color:#F86E00 !important;
+} */
+
+.bg-secondary {
+    background-color:black !important;
+}
+
+#grad {
+    background: linear-gradient(to bottom right,rgb(255,80,0), rgb(255,221,0));
+  }
+
+  .btn {
+      border-color: none;
+  }
+
+  .btn-primary {
+    background-color: green;
+    border: 0px;
+  }
+
+  .btn-primary:hover {
+    background-color:#FD9200;
+    border: 0px;
+
+  }
+
+
+  .text-primary {
+    color:#2E2E2E !important;
+}
+
+.bg-dark {
+    background-color: black!important;
+}
+
+.bg-primary {
+    background-color:rgb(255,120,0) !important;
+}
